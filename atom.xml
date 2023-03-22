@@ -3,11 +3,11 @@
   <title>Give me five!!!</title>
   
   <subtitle>Sonny的个人博客</subtitle>
-  <link href="https://sonnyhe.github.io/project/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://sonnyhe.github.io/project/"/>
+  <link href="http://example.com/"/>
   <updated>2023-03-22T07:30:13.566Z</updated>
-  <id>https://sonnyhe.github.io/project/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>Sonny He</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>动手学深度学习V2-笔记</title>
-    <link href="https://sonnyhe.github.io/project/2023/03/22/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0V2-%E7%AC%94%E8%AE%B0/"/>
-    <id>https://sonnyhe.github.io/project/2023/03/22/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0V2-%E7%AC%94%E8%AE%B0/</id>
+    <link href="http://example.com/2023/03/22/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0V2-%E7%AC%94%E8%AE%B0/"/>
+    <id>http://example.com/2023/03/22/%E5%8A%A8%E6%89%8B%E5%AD%A6%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0V2-%E7%AC%94%E8%AE%B0/</id>
     <published>2023-03-22T15:27:18.000Z</published>
     <updated>2023-03-22T07:30:13.566Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>My First Blog</title>
-    <link href="https://sonnyhe.github.io/project/2023/02/03/My-First-Blog/"/>
-    <id>https://sonnyhe.github.io/project/2023/02/03/My-First-Blog/</id>
+    <link href="http://example.com/2023/02/03/My-First-Blog/"/>
+    <id>http://example.com/2023/02/03/My-First-Blog/</id>
     <published>2023-02-03T10:04:18.000Z</published>
     <updated>2023-03-22T07:26:29.015Z</updated>
     
@@ -59,8 +59,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://sonnyhe.github.io/project/2023/02/03/hello-world/"/>
-    <id>https://sonnyhe.github.io/project/2023/02/03/hello-world/</id>
+    <link href="http://example.com/2023/02/03/hello-world/"/>
+    <id>http://example.com/2023/02/03/hello-world/</id>
     <published>2023-02-03T02:00:13.435Z</published>
     <updated>2023-02-03T02:00:13.436Z</updated>
     
