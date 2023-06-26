@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-03-22T07:30:13.566Z</updated>
+  <updated>2023-06-07T06:02:30.636Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://example.com/2023/06/07/vscode%E4%BE%BF%E6%8D%B7%E9%94%AE/"/>
+    <id>http://example.com/2023/06/07/vscode%E4%BE%BF%E6%8D%B7%E9%94%AE/</id>
+    <published>2023-06-07T06:00:14.042Z</published>
+    <updated>2023-06-07T06:02:30.636Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="vscode便捷键"><a href="#vscode便捷键" class="headerlink" title="vscode便捷键"></a>vscode便捷键</h1><p>文件操作</p><ul><li>Ctrl + N: 新建文件</li><li>Ctrl + O: 打开文件</li><li>Ctrl + S: 保存文件</li><li>Ctrl + Shift + S: 另存为</li><li>Ctrl + W: 关闭当前文件</li><li>Ctrl + Shift + T: 恢复最近关闭的文件</li><li>Ctrl + Tab: 在打开的文件之间切换</li><li>Ctrl + P: 快速打开文件</li><li>Ctrl + Shift + N: 在新窗口中打开文件</li><li>Ctrl + Shift + W: 关闭所有打开的编辑器</li></ul><p>编辑操作</p><ul><li>Ctrl + X: 剪切</li><li>Ctrl + C: 复制</li><li>Ctrl + V: 粘贴</li><li>Ctrl + Z: 撤销</li><li>Ctrl + Shift + Z: 重做</li><li>Ctrl + A: 全选</li><li>Ctrl + D: 选中下一个相同的单词或文本段</li><li>Ctrl + U: 撤销最后的选择操作</li><li>Ctrl + F: 查找</li><li>Ctrl + H: 替换</li><li>Alt + ↑/↓: 上下移动当前行或选定文本的行</li><li>Shift + Alt + ↑/↓: 在当前行上方或下方插入一行</li><li>Ctrl + Shift + K: 删除当前行</li><li>Ctrl + /: 添加或移除行注释</li><li>Shift + Alt + A: 添加或移除块注释</li><li>Ctrl + Shift + L: 选中所有匹配的单词或文本段</li></ul><p>调试操作</p><ul><li>F5: 启动调试</li><li>F9: 在当前行设置/取消断点</li><li>F10: 单步执行，不进入函数</li><li>F11: 单步执行，进入函数</li><li>Shift + F11: 从函数中步出</li><li>Ctrl + Shift + F5: 停止调试</li></ul><p>以上是 VS Code 中一些常用的快捷键，还有很多其他的快捷键可以通过查看 VS Code 的快捷键列表或自定义快捷键来使用。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;vscode便捷键&quot;&gt;&lt;a href=&quot;#vscode便捷键&quot; class=&quot;headerlink&quot; title=&quot;vscode便捷键&quot;&gt;&lt;/a&gt;vscode便捷键&lt;/h1&gt;&lt;p&gt;文件操作&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ctrl + N: 新建文件&lt;/li&gt;
+&lt;li&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>动手学深度学习V2-笔记</title>
